@@ -79,7 +79,7 @@ const Home = () => {
           <article className="flex justify-center">
             <div className="w-3/5">
               <h2 className="text-3xl md:text-4xl font-bold mb-4">
-                Hi, I’m Chandan. Nice to meet you.
+                Hi, I’m Tanushree. Nice to meet you.
               </h2>
               <p className="text-xl md:text-xl font-medium">
                 With 6 months of internship experience and now serving as a
