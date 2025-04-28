@@ -26,8 +26,8 @@ const Home = () => {
                 1000,
                 "I'm a Back-End Developer",
                 1000,
-                "I'm a Full Stack Developer",
-                500,
+                // "I'm a Full Stack Developer",
+                // 500,
               ]}
               speed={50}
               repeat={Infinity}
