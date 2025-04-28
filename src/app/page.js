@@ -20,9 +20,9 @@ const Home = () => {
               preRenderFirstString={true}
               sequence={[
                 500,
-                "I'm a Web Developer",
+                "I'm a Python Developer",
                 1000,
-                "I'm a Front-End Developer",
+                "I'm a DJnago Developer",
                 1000,
                 "I'm a Back-End Developer",
                 1000,
